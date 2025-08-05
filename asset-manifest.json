@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cf6acbef.css",
+    "main.js": "./static/js/main.37b40603.js",
+    "static/js/206.426465cf.chunk.js": "./static/js/206.426465cf.chunk.js",
+    "static/media/modalbg.png": "./static/media/modalbg.c8fee36ba52dccb83937.png",
+    "static/media/GalanoGrotesqueBold.otf": "./static/media/GalanoGrotesqueBold.e8d6ed1f9eff334507fa.otf",
+    "static/media/GreasySpoonNF.ttf": "./static/media/GreasySpoonNF.d6298534234cb752d64c.ttf",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cf6acbef.css",
+    "static/js/main.37b40603.js"
+  ]
+}
